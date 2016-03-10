@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: flex-perception
 Donate link: http://flexperception.com
-Tags: comments, spam
+Tags: the events calendar, facebook, social media, drop-ins, event management, event marketing
 Requires at least: 3.0.1
 Tested up to: 3.4
 Stable tag: 4.3
@@ -9,9 +9,8 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
-If no Event URL is found on an event, use the imported Facebook URL. If we've entered an event URL, show that URL.
-
-Important: This will only work on events that are imported via the Facebook Events add-on for The Events Calendar. 
+When importing events with the Facebook Events Add-On by Modern Tribe, save the Facebook event permalink as the Event URL to be displayed on the front-end with the event info. Good for talking to clients about how you can help drive engagement to their Facebook event.
+https://theeventscalendar.com/product/facebook-events/
 
 
 == Installation ==
@@ -22,8 +21,10 @@ Important: This will only work on events that are imported via the Facebook Even
 
 == Frequently Asked Questions ==
 Q) Does this work with manually entered events?
-A) No, it will only work with events successfully imported via the Facebook Events add-on
+A) No. The URL is changed when the Facebook Events Add-On successfully imports a new event. 
 
+Q) What if I want to use a different URL?
+A) Edit the event and replace the Facebook Event permalink with your custom event URL
 
 == Changelog ==
 
