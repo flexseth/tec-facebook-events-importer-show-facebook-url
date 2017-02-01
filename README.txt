@@ -27,6 +27,8 @@ Q) What if I want to use a different URL?
 A) Edit the event and replace the Facebook Event permalink with your custom event URL
 
 == Changelog ==
+= 1.0.1 = 
+This functionality is featured in The Events Aggregator Add-on by Modern Tribe
 
 = 1.0 =
 Original commit.
